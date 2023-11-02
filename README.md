@@ -1,4 +1,4 @@
-### Olá, Prazer 👋
+### Olá, Prazer meu nome é francisco👋
 - 🔭 Atualmente estou cursando ADS:
 - ![image](https://github.com/fwzin/fwzin/assets/137823900/16da7cf0-6960-4f4c-aa3e-3d17503acb66)
   ![image](https://github.com/fwzin/fwzin/assets/137823900/283d0ade-b3e6-4d82-86bc-3b2f2d2186fa)
