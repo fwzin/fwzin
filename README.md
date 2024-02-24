@@ -34,11 +34,22 @@
   📫 Contatos: 
 </p>
 <div>
-    <code><img width="100" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></code>
-    <code><img width="100" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" title="Discord"/></code>
-    <code><img width="100" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/></code>
-    <code><img width="100" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/></code>
+    <a href="https://github.com/fwzin">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/francisco-costa-0fw189/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+    <a href="https://www.instagram.com/francisco_wb/?hl=en">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=11982830565">
+        <img width="120" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/>
+    </a>
+
 </div>
+
 
 
 <!--
